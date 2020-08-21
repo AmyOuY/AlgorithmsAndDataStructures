@@ -10,7 +10,7 @@
 
 5. min-heap for storing graph edges
 
-6. Dijkstra's Single-source Shortest Path Algorithm (O(mn) time complexity, m: number of edges, n: number of nodes).
+6. Dijkstra's Single-source Shortest Path Algorithm that allows only positive edge length (O(mn) time complexity, m: number of edges, n: number of nodes).
 
 7. Dijkstra's Single-source Shortest Path Algorithm using min-heap to store Dijkstra's greedy score for each node (O(mlogn) time complexity).
 
@@ -18,6 +18,6 @@
 
 9. BellmanFord's Single-source Shortest Path Algorithm that allows negative edge length (Dynamic Programming: O(mn) time complexity).
 
-10. FloyedWarshall's All-Pairs Shortest Paths Algorithm that allows negative edge length (Dynamic Programming: O(n*n*n) time complexity).
+10. FloydWarshall's All-Pairs Shortest Paths Algorithm that allows negative edge length (Dynamic Programming: O(n*n*n) time complexity).
 
 
