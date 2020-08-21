@@ -14,4 +14,6 @@
 
 7. Dijkstra's Single-source Shortest Path Algorithm using min-heap to store Dijkstra's greedy score for each node (O(mlogn) time complexity).
 
+8. Sequence Alignment using Dynamic Programming.
+
 
