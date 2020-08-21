@@ -10,10 +10,10 @@
 
 5. min-heap for storing graph edges
 
-6. Dijkstra's Single-source Shortest Path Algorithm (O(mn) time complexity).
+6. Dijkstra's Single-source Shortest Path Algorithm (O(mn) time complexity, m: number of edges, n: number of nodes).
 
 7. Dijkstra's Single-source Shortest Path Algorithm using min-heap to store Dijkstra's greedy score for each node (O(mlogn) time complexity).
 
-8. Sequence Alignment using Dynamic Programming.
+8. Sequence Alignment using Dynamic Programming (O(mn) time complexity, m: length of first sequence, n: length of second sequence).
 
 
