@@ -18,4 +18,6 @@
 
 9. BellmanFord's Single-source Shortest Path Algorithm that allows negative edge length (Dynamic Programming: O(mn) time complexity).
 
+10. FloyedWarshall's All-Pairs Shortest Paths Algorithm that allows negative edge length (Dynamic Programming: O(n*n*n) time complexity).
+
 
